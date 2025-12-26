@@ -53,6 +53,18 @@ Our IoT system tracks essential parameters including:
 ✅ **Peace of Mind** - 24/7 monitoring means you're always aware of your pond conditions  
 ✅ **Sustainability** - Better resource management leads to more sustainable aquaculture practices
 
+## Future Plans
+
+We're constantly innovating to expand our ecosystem and bring more value to the aquaculture and agriculture communities:
+
+🛒 **E-Commerce Platform for Fresh Produce**
+- Connecting consumers directly with farmers
+- Fresh fish, beef, and other farm products
+- Ensuring quality and traceability from farm to table
+- Making it easier for people to find and purchase fresh, sustainably-sourced products
+
+Our vision is to create a complete ecosystem that not only helps farmers produce better but also connects them directly with consumers who value quality and sustainability.
+
 ## Get Involved
 
 We're building the future of smart fisheries, and we welcome collaboration, feedback, and contributions from the community. Whether you're a fish farmer, developer, researcher, or enthusiast, there's a place for you in our ecosystem.
