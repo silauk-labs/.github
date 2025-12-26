@@ -53,6 +53,18 @@ Our IoT system tracks essential parameters including:
 ✅ **Peace of Mind** - 24/7 monitoring means you're always aware of your pond conditions  
 ✅ **Sustainability** - Better resource management leads to more sustainable aquaculture practices
 
+## Our Repositories
+
+Explore our open-source projects that power the IoT smart system:
+
+### 🔧 [silauk-smart-feeder](https://github.com/silauk-labs/silauk-smart-feeder)
+Monorepo containing all firmware projects for Silauk Smart devices. This repository includes the embedded systems code that runs on our IoT sensors and controllers deployed in aquaculture facilities.
+
+**Technology Stack:** C++  
+**Purpose:** Firmware for smart feeding systems, water quality sensors, and monitoring devices
+
+---
+
 ## Future Plans
 
 We're constantly innovating to expand our ecosystem and bring more value to the aquaculture and agriculture communities:
